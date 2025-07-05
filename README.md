@@ -14,3 +14,10 @@ These were merged here for ease of deployment and submission.
 ## 🗂 Structure
 - `/frontend` — Next.js
 - `/backend` — Django Rest Framework
+
+## 👨‍💻 Built With Love By
+
+- Kartik ([@kartik-m39](https://github.com/kartik-m39))
+- Madhav ([@madhavv-xd](https://github.com/madhavv-xd))
+- Rachit ([@rachitgoyal3313](https://github.com/rachitgoyal3313))
+- Divyansh ([@Divy13ansh](https://github.com/Divy13ansh))
