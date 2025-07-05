@@ -4,4 +4,4 @@
 
 ## 🗂 Structure
 - `/frontend` — Next.js
-- `/backend` — Django Rest Franework
+- `/backend` — Django Rest Framework
